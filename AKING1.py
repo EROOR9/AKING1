@@ -29,4 +29,3 @@ if 'aarch' in arch:
     import XD
     XD.menu()
 else:exit('\033[1;31m\n Sorry System or device not supported ')
-    
